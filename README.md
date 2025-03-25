@@ -2,15 +2,19 @@
 <h3 align="center">💻 Passionate Software Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ff5733&width=600&lines=I+love+turning+ideas+into+reality!;Coding+is+not+just+a+job,+it's+a+passion!;Always+learning,+always+growing!;Innovate.+Code.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Think.+Build.+Optimize.+Repeat.;Turning+complex+problems+into+simple+solutions.;Adapt.+Overcome.+Excel.;Every+bug+is+a+lesson,+not+a+problem.;Code+with+purpose,+build+with+passion.">
 </p>
 
-<h3 align="center">💡 My Motto:</h3>
 
-<blockquote align="center" style="border-left: 5px solid #ff5733; padding: 10px 20px; font-style: italic; background: #f5f5f5; display: inline-block; max-width: 500px; border-radius: 8px;">
-    "Please don’t complain always and get stuck... Look for a solution!" <br> 
+<div align="center">
+    <p style="font-size: 24px; font-weight: bold; color: #ff5733;">❝</p>
+    <blockquote style="border-left: 5px solid #ff5733; padding: 20px 30px; font-style: italic; background: #f9f9f9; color: #333; display: inline-block; max-width: 600px; border-radius: 8px; font-size: 20px; line-height: 1.6; text-align: center;">
+        "Do not dwell on problems and remain stagnant; instead, seek solutions and move forward."
+    </blockquote>
+    <br>
     <b>— Sabari Babu</b>
-</blockquote>
+</div>
+
 
 
 <h3 align="left">📬 Connect with me:</h3>
@@ -60,7 +64,7 @@
     <td><h3>⚙️ Backend Development</h3></td>
     <td>
       <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-      <img height="50" src="https://img.icons8.com/ios-filled/50/000000/express-js.png" />
+      <img height="40" src="https://miro.medium.com/v2/resize:fit:1400/1*xiQpjODdxfECsMC8qReOhQ.png" />
       <img height="50" src="https://img.icons8.com/color/48/000000/django.png" />
     </td>
   </tr>
@@ -89,8 +93,8 @@
       <img height="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
       <img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
       <img height="50" src="https://img.icons8.com/color/48/000000/opencv.png" />
-      <img height="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" />
-      <img height="50" src="https://img.icons8.com/color/48/000000/matlab.png" />
+      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
+      <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQU_cMEYjWTLxbXyz_j9lRfBEKz0BZLnfk80x7S06qdTF_V8Y3TrGqeEPlUiL7EdrlA&usqp=CAU" />
     </td>
   </tr>
 
@@ -98,8 +102,7 @@
     <td><h3>🔍 API & Testing</h3></td>
     <td>
       <img height="50" src="https://img.icons8.com/color/48/000000/graphql.png" />
-      <img height="50" src="https://img.icons8.com/color/48/000000/postman-api.png" />
-      <img height="50" src="https://img.icons8.com/color/48/000000/puppeteer.png" />
+      <img height="50" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
     </td>
   </tr>
 </table>
