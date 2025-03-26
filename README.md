@@ -1,5 +1,11 @@
 <h1 align="center">🚀 Hey, I'm <span style="color:#ff5733;">Sabari Babu</span> 👋</h1>
 <h3 align="center">💻 Passionate Software Developer | Tech Enthusiast | Problem Solver</h3>
+<h3>👨‍💻 About Me </h3> 
+- 🎓 Computer Science Graduate | Software Developer  
+- 🏆 Competitive Programmer | 500+ problems solved on LeetCode  
+- 🚀 Passionate about Web Development, AI/ML, and System Design  
+- 📚 Always learning and improving my skills!  
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Think.+Build.+Optimize.+Repeat.;Turning+complex+problems+into+simple+solutions.;Adapt.+Overcome.+Excel.;Every+bug+is+a+lesson,+not+a+problem.;Code+with+purpose,+build+with+passion.">
