@@ -1,10 +1,11 @@
 <h1 align="center">🚀 Hey, I'm <span style="color:#ff5733;">Sabari Babu</span> 👋</h1>
 <h3 align="center">💻 Passionate Software Developer | Tech Enthusiast | Problem Solver</h3>
+
 <h3>👨‍💻 About Me </h3> 
-- 🎓 Computer Science Graduate | Software Developer  
-- 🏆 Competitive Programmer | 500+ problems solved on LeetCode  
-- 🚀 Passionate about Web Development, AI/ML, and System Design  
-- 📚 Always learning and improving my skills!  
+- 🎓 Computer Science Graduate | Software Developer  <br/>
+- 🏆 Competitive Programmer | 150+ problems solved on LeetCode  <br/>
+- 🚀 Passionate about Web Development, AI/ML, and System Design  <br/>
+- 📚 Always learning and improving my skills!  <br/>
 
 
 <p align="center">
