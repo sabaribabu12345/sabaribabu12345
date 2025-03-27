@@ -98,7 +98,7 @@
 </table>
 
 <!-- LEETCODE STATS -->
-<h3 align="center">🔥 My Coding Stats</h3>
+<h3 align="center"> My Coding Stats 🚀 </h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sabari12345?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats">
