@@ -19,7 +19,7 @@
 <!-- QUOTE SECTION -->
 <div align="center">
     <p style="font-size: 30px; font-weight: bold; color: #ff5733;">❝</p>
-    <blockquote style="border-left: 5px solid #ff5733; padding: 20px 30px; font-style: italic; background: #f9f9f9; color: #333; display: inline-block; max-width: 600px; border-radius: 8px; font-size: 20px; line-height: 1.6; text-align: center;">
+    <blockquote style="border-left: 5px solid #ff5733; padding: 20px 30px; font-style: italic; background: #f9f9f9; color: #333; display: inline-block; max-width: 600px; border-radius: 10px; font-size: 20px; line-height: 1.6; text-align: center;">
         "Do not dwell on problems and remain stagnant; instead, seek solutions and move forward."
     </blockquote>
     <br>
