@@ -13,7 +13,7 @@
   🎓 <b>Computer Science Graduate</b> | Software Developer <br/>
   🏆 <b>Competitive Programmer</b> | Solved <b>150+</b> problems on LeetCode <br/>
   🚀 <b>Passionate about Web Development, AI/ML, and System Design</b> <br/>
-  📚 <b>Always learning, growing, and refining my skills!</b> <br/>
+  📚 <b>Always learning, growing, and refining my skills!!</b> <br/>
 </p>
 
 <!-- QUOTE SECTION -->
